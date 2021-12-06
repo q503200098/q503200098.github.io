@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q503200098.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-06T07:08:39.775Z</updated>
+    <updated>2021-12-06T07:11:13.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q503200098.github.io"/>
     <link rel="self" href="https://q503200098.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://q503200098.github.io/images/avatar.png</logo>
     <icon>https://q503200098.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[今天下午完成打包]]></title>
+        <id>https://q503200098.github.io/post/jin-tian-xia-wu-wan-cheng-da-bao/</id>
+        <link href="https://q503200098.github.io/post/jin-tian-xia-wu-wan-cheng-da-bao/">
+        </link>
+        <updated>2021-12-06T07:10:59.000Z</updated>
+        <content type="html"><![CDATA[<p>能够提测。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猪猪测试]]></title>
         <id>https://q503200098.github.io/post/zhu-zhu-ce-shi/</id>
