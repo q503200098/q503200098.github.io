@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q503200098.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-06T08:19:42.722Z</updated>
+    <updated>2021-12-06T08:20:06.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q503200098.github.io"/>
     <link rel="self" href="https://q503200098.github.io/atom.xml"/>
@@ -27,6 +27,27 @@
         </link>
         <updated>2021-12-06T06:42:23.000Z</updated>
         <content type="html"><![CDATA[<p>点进来你就变猪了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://q503200098.github.io/post/about/</id>
+        <link href="https://q503200098.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>零点科技官方博客。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>曲鑫、李晓蕊。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>产品设计、UI设计、插画、手绘、运维、折腾数码产品、Vlog、捡垃圾。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>手机微信同号：19916945729。</p>
+<p>##访问可用性<br>
+由于本博客是基于github静态网站生成，所以可用性与github相同，如果你是在中国大陆访问的，则可能受DNS影响无法访问本博客。</p>
 ]]></content>
     </entry>
 </feed>
